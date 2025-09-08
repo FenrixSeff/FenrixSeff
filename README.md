@@ -1,11 +1,11 @@
 # 👋 Halo!
 
-Aku **Seff**, seseorang yang suka penasaran dengan dunia teknologi🔍
-Masih belajar, tapi selalu tertarik buat nemuin hal-hal baru🥳
+Aku **Seff**, seseorang yang penasaran dengan dunia teknologi 🔍.
+Masih belajar, tapi selalu tertarik buat nemuin hal-hal baru 🥳
 
 ## 🧩 Tentang Aku
-- Pelajar SMA
-- Suka mencoba hal baru di dunia teknologi
+- Seorang pelajar SMA
+- Suka ngulik hal-hal baru di dunia teknologi
 - Ngebuat project kecil untuk latihan
 
 
